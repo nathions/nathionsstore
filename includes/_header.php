@@ -1,4 +1,4 @@
-<header style="background-color: rgb(252,20,20);">
+<header style="background-color: rgb(252,20,20); width: 100%;display: block;height: 110px;">
     <nav>
         <div class="container">
             <div class="row">
