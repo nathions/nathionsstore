@@ -56,7 +56,7 @@ if (isset($_POST['txtmsg'])) {
         </div>
         </br>
         <a href="pagamento.php">
-        <input type="submit" value="Cadastrar">
+        <input type="button" value="Cadastrar">
         </a>
         
     </div>
