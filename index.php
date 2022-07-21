@@ -14,7 +14,7 @@ include_once './includes/_dados.php';
         ?>
 
             <div class="card m-3" style="width: 18rem; height: 30rem;">
-                <img style="widht: 50px; height: 230px;" src="./content/<?php echo $produtos[$i]['imagem'] ?>" class="card-img-top" alt="...">
+                <img style="widht: 50px; height: 250px;" src="./content/<?php echo $produtos[$i]['imagem'] ?>" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title"><?php echo $produtos[$i]['nome'] ?></h5>
                 </div>
