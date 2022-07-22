@@ -3,19 +3,6 @@ include_once './includes/_head.php';
 include_once './includes/_header.php';
 include_once './includes/_dados.php';
 
-
-if (isset($_POST['txtNome'])) {
-    $nome = strtoupper($_POST['txtNome']);
-}
-if (isset($_POST['txtemail'])) {
-    $email = ($_POST['txtemail']);
-}
-if (isset($_POST['txtcel'])) {
-    $telefone = strtoupper($_POST['txtcel']);
-}
-if (isset($_POST['txtmsg'])) {
-    $mensagem = ($_POST['txtmsg']);
-}
 ?>
 
 <h1>Cadastro</h1>
